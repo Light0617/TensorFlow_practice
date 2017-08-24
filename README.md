@@ -3,8 +3,13 @@ This is a practice for deep learning and tensorflow
 
 ##DEMO##
 
-![alt text](demo/painting_before.png "Original Image")
+### DEMO1 : Painting with Neuron Network<br>
+The original Image:<br>
+<img src="demo/painting_before.png" width="150" height="200" />
+The image after Neuron network draw<br>
+<img src="demo/painting_after.png" width="150" height="200" />
 
-![alt text](demo/painting_after.png "Image drew by NN")
+### DEMO2 : Processing with Gabor Convolution <br>
+<img src="demo/Gabor_convolution.png" width="150" height="200" />
+![alt text](demo/painting_before.png = 300 )
 
-![alt text](demo/Gabor_convolution.png "Image processing with Gabor Convolution")
